@@ -43,7 +43,7 @@ Credit History turned out to be the most important factor in loan approvals
 Visualizations (heatmaps & graphs) make evaluation easier to understand
 
 ## 🎥 Project Demo
-Watch the project demo video here: [Click to Watch]([https://drive.google.com/your-link](https://drive.google.com/file/d/1aXXELrUDpH9ss6jJK43lYG-dkis8ydpX/view?usp=sharing))
+Watch the project demo video here: ([https://drive.google.com/your-link](https://drive.google.com/file/d/1aXXELrUDpH9ss6jJK43lYG-dkis8ydpX/view?usp=sharing))
 
 
 🌟 Why this project?
